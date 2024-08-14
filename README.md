@@ -13,6 +13,8 @@ This project is a simple web application that allows users to upload an image an
 To run this project locally, you need to clone the repository and set up a local web server.
 
 ### Clone the Repository
+live link =  https://background-remover-sandy.vercel.app/
+
 
 ```bash
 git clone https://github.com/your-username/image-background-remover.git
